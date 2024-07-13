@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T05:13:28.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="wYiuB72fkGiAehFx1jJD" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T05:23:29.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="8Fj5Qu2HltS-wD20LGgk" version="24.6.5" type="github">
   <diagram name="Page-1" id="bUdxkc4C-8dXbEJqsbLI">
-    <mxGraphModel dx="2485" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2278" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,8 +245,20 @@
         <mxCell id="gWxLCFVaBbQ-swURFFte-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/User_Privacy.svg;" vertex="1" parent="1">
           <mxGeometry x="1610" y="835" width="64" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="gWxLCFVaBbQ-swURFFte-17" value="Pharmacy Manager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="908" width="130" height="30" as="geometry" />
+        <mxCell id="gWxLCFVaBbQ-swURFFte-18" value="LifePill POS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1334" y="203.71" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWxLCFVaBbQ-swURFFte-19" value="LifePill POS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1334" y="453.26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWxLCFVaBbQ-swURFFte-20" value="LifePill POS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1338" y="693.2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWxLCFVaBbQ-swURFFte-23" value="LifePill Web For Pharmacy Owners" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1338" y="909" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWxLCFVaBbQ-swURFFte-24" value="Pharmacy Chain Owner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="903" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
